@@ -1,0 +1,7 @@
+In TextUtils, overload the method
+split(String text, String separators) where
+text is a string to be split, separators is a
+string containing all the characters used to
+split the text (for example “,.!?“). The method
+returns an array of String containing the list
+of tokens separated by one of the separators. 
